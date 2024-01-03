@@ -1,8 +1,3 @@
-//=============自用仓2024/01/3=============
-//本成人单仓库在线链接：
-//https://ghcy.eu.org/https://raw.githubusercontent.com/showeme007/Tvbox/master/live.txt
-
-
 {"urls": 
 [
 {"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/18.jsont"，"name": "私人影院"}，
