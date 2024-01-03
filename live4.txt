@@ -1,6 +1,3 @@
-{"urls":
-[
-{"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/18.jsont","name":"私人影院"},
 
-]
-}
+{"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/18.jsont","name":"私人影院"}
+
