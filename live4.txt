@@ -2,7 +2,6 @@
 [
 {"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/showeme007/Tvbox/master/live.txt","name":"电视源"},
 {"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/18.jsont","name":"私人影院"},
-{"url":"http://52bsj.vip:98/wuai","name":"吾爱"},
 
 ]
 }
