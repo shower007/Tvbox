@@ -1,9 +1,9 @@
 {"urls": 
 [
 
-{"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/18.json","name":"私人影院"},
-{"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/hl128k/tvbox/main/tv/0/xianyuyimu_一木自用.json","name":"一木"},
-{"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/shower007/Tvbox/master/wuai.json","name":"吾爱"}
+{"url":"https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/18.json","name":"私人影院"},
+{"url":"https://raw.githubusercontent.com/hl128k/tvbox/main/tv/0/xianyuyimu_一木自用.json","name":"一木"},
+{"url":"https://raw.githubusercontent.com/shower007/Tvbox/master/wuai.json","name":"吾爱"}
 
 ]
 }
