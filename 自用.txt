@@ -10,7 +10,13 @@
             "name": "🚀阿里云盘线路🚀"
         },
         {
+            "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/adult.json",
+
+            "name": "🍀个人影院🍀"
+        },
+        {
             "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/18.json",
+
             "name": "🍀私人影院🍀"
         },
         {
