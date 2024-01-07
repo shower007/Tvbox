@@ -11,12 +11,12 @@
             "name": "🚀饭太硬推荐"
         },
         {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "🚀小米推荐"
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "🚀肥猫"
         },
         {
-            "url": "http://fan.xxooo.cf/tv",
-            "name": "🚀饭太硬备用"
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "🚀吾爱"
         },
         {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
