@@ -11,11 +11,11 @@
             "name": "🚀饭太硬推荐"
         },
         {
-            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "url": "https://raw.githubusercontent.com/shower007/Tvbox/master/%E5%90%BE%E7%88%B1.json",
             "name": "🚀肥猫"
         },
         {
-            "url": "http://52bsj.vip:98/wuai",
+            "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/shower007/Tvbox/master/%E5%90%BE%E7%88%B1.json",
             "name": "🚀吾爱"
         },
         {
