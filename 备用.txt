@@ -25,8 +25,8 @@
             "name": "🚀饭太硬推荐"
         },
         {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "🚀小米推荐"
+            "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/shower007/Tvbox/master/18.json",
+            "name": "🚀个人"
         },
         {
             "url": "http://fan.xxooo.cf/tv",
