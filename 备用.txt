@@ -29,8 +29,8 @@
             "name": "🚀个人"
         },
         {
-            "url": "http://fan.xxooo.cf/tv",
-            "name": "🚀饭太硬备用"
+            "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/shower007/Tvbox/master/%E5%90%BE%E7%88%B1.json",
+            "name": "🚀五爱"
         },
         {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
