@@ -1,4 +1,18 @@
 #genre#
+//2024-01-30 10:25上线 河北省邢台市酒店 联通
+CCTV-1,http://121.27.126.22:8899/hls/69/index.m3u8
+CCTV-2,http://121.27.126.22:8899/hls/70/index.m3u8
+CCTV-3,http://121.27.126.22:8899/hls/71/index.m3u8
+CCTV-5,http://121.27.126.22:8899/hls/72/index.m3u8
+CCTV-6,http://121.27.126.22:8899/hls/73/index.m3u8
+CCTV-7,http://121.27.126.22:8899/hls/74/index.m3u8
+CCTV-8,http://121.27.126.22:8899/hls/75/index.m3u8
+CCTV-9,http://121.27.126.22:8899/hls/76/index.m3u8
+CCTV-10,http://121.27.126.22:8899/hls/77/index.m3u8
+CCTV-12,http://121.27.126.22:8899/hls/79/index.m3u8
+CCTV-14,http://121.27.126.22:8899/hls/80/index.m3u8
+
+
 //2024-01-29 16:28上线 广西贵港市酒店 联通
 CCTV-1,http://110.72.83.165:808/hls/54/index.m3u8
 CCTV-2,http://110.72.83.165:808/hls/97/index.m3u8
