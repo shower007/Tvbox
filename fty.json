@@ -467,7 +467,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "746eced4da3d4fba84718ef0b0303ed8"
     },
     {
       "key": "PanSearch",
@@ -477,7 +477,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "746eced4da3d4fba84718ef0b0303ed8"
     },
     {
       "key": "七夜",
@@ -487,7 +487,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "746eced4da3d4fba84718ef0b0303ed8"
     },
     {
       "key": "push_agent",
@@ -496,7 +496,7 @@
       "api": "csp_Push",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "746eced4da3d4fba84718ef0b0303ed8"
     },
     {
       "key": "Bili",
