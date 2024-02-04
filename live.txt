@@ -65,27 +65,6 @@ CCTV-15,http://113.110.72.132:8090/hls/127/index.m3u8
 广东体育,http://113.110.72.132:8090/hls/108/index.m3u8
 广东影视,http://113.110.72.132:8090/hls/110/index.m3u8
 广东少儿,http://113.110.72.132:8090/hls/111/index.m3u8
-欢乐剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
-经典港片,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
-动画电影,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
-华语院线,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huayuyuanxian_1080p_t10/c16_lb_huayuyuanxian_1080p_t10.m3u8
-周末影院,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
-谍战剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_diezhanjuchang_1080p_t10/c16_lb_diezhanjuchang_1080p_t10.m3u8
-军旅剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junlvjuchang_1080p_t10/c16_lb_junlvjuchang_1080p_t10.m3u8
-青春剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_weizhangzhe_1080p_t10/c15_lb_weizhangzhe_1080p_t10.m3u8
-宫廷正剧,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_niandaijuchang_1080p_t10/c15_lb_niandaijuchang_1080p_t10.m3u8
-抗战剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
-历史秘闻,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
-军事观察,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_junshinew_1080p_t10/c16_lb_junshinew_1080p_t10.m3u8
-童年经典,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_balalaxiaomoxian_1080p_t10/c15_lb_balalaxiaomoxian_1080p_t10.m3u8
-儿童乐园,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dongmantiandi_1080p_t10/c15_lb_dongmantiandi_1080p_t10.m3u8
-亲子启蒙,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_qinziqimeng_1080p_t10/c16_lb_qinziqimeng_1080p_t10.m3u8
-相声小品,http://121.24.99.124:8090/hls/101/index.m3u8
-魅力时尚,http://121.24.99.124:8090/hls/102/index.m3u8
-经典电影,http://121.24.99.124:8090/hls/103/index.m3u8
-热播剧场,http://121.24.99.124:8090/hls/104/index.m3u8
-少儿动画,http://121.24.99.124:8090/hls/105/index.m3u8
-谍战剧场,http://121.24.99.124:8090/hls/107/index.m3u8
 
 
 //2024-01-31 11:50上线 广西南宁市酒店 联通1
