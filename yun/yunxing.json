@@ -1,6 +1,6 @@
 {
   "spider": "./yun/fm.jar;md5;1ff3df38a66ee5378031e4fac1799596",
-  "warningText": "接口由公众号【云星日记】免费提供",
+  "warningText": "接口免费",
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
     {
@@ -716,7 +716,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "UpYun",
@@ -727,7 +727,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "七夜",
@@ -738,7 +738,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "Gitcafe",
@@ -749,7 +749,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "./yun/lib/Hk.jar",
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"
+      "ext": "d1071e09e8fc477591671f52cd3ea952"
     },
     {
       "key": "csp_Zhaozy5",
@@ -760,7 +760,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "./yun/lib/Hk.jar",
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "d1071e09e8fc477591671f52cd3ea952"
     },
     {
       "key": "csp_AliPS",
@@ -771,7 +771,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "./yun/lib/Hk.jar",
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"
+      "ext": "./token.txt"
     },
     {
       "key": "csp_Yisou5",
@@ -782,7 +782,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "./yun/lib/Hk.jar",
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"
+      "ext": "d1071e09e8fc477591671f52cd3ea952"
     },
     {
       "key": "push_agent",
@@ -793,11 +793,11 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "./yun/lib/Hk.jar",
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"
+      "ext": "d1071e09e8fc477591671f52cd3ea952"
     },
     {
       "key": "说明",
-      "name": "公众号：云星日记",
+      "name": "公众号",
       "type": 3,
       "api": "360",
       "searchable": 1,
