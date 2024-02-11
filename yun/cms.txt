@@ -65,7 +65,7 @@
 {"key": "易搜","name": "🦊易搜 | 搜索","type": 3,"api": "csp_YiSo","playerType":2,"ext": "./token.txt+4k|auto|fhd"},
 {"key": "盘搜","name": "🦊盘搜 | 搜索","type": 3,"api": "csp_PanSou","playerType":2,"ext": "./token.txt+4k|auto|fhd"},
 {"key": "UP云搜","name": "🦊Up云搜 | 搜索","type": 3,"api": "csp_UpYun","playerType":2,"ext": "./token.txt+4k|auto|fhd"},
-//{"key": "push_agent","name": "🍭推送(阿里推送/磁力推送)","type": 3,"api": "csp_Push","ext": "./token.txt","jar": "http://127.0.0.1:9978/file/TVBox/jar/fm.jar"}
+//{"key": "push_agent","name": "🍭推送(阿里推送/磁力推送)","type": 3,"api": "csp_Push","ext": "./token.txt","jar": "./yun/jar/fm.jar"}
 {"key": "push_agent", "name": "🍭推送(海阔)", "type": 3, "api": "csp_PushAgent", "searchable": 0,"quickSearch": 0, "filterable": 0,"ext": "./token.txt","jar": "./yun/Hk/Hk.jar"}
         
         ],
