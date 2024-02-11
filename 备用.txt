@@ -1,5 +1,6 @@
 //https://ghcy.eu.org/https://raw.githubusercontent.com/showeme007/Tvbox/master/live.txt
 //https://ghcy.eu.org/https://raw.githubusercontent.com/shower007/Tvbox/master/自用.txt
+//https://ghcy.eu.org/https://raw.githubusercontent.com/shower007/Tvbox/master/备用.txt
 {
     "urls": [
         {"url": "","name": "🐊🐊接口更新于2.11🐊🐊" },
