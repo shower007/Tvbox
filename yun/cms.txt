@@ -70,12 +70,11 @@
 {"key": "zy_百度资源","name": "  🔍┃百度资源","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0,"categories": ["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","大陆剧","港澳剧","韩剧","日剧","纪录片","犯罪片","动画电影","台湾剧","欧美剧","其他剧","泰剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","悬疑片","邵氏电影","体育赛事"]},
 {"key": "zy_U酷资源","name": " 🔖┃U酷资源","type": 1,"api": "https://api.ukuapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"categories": ["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港澳剧","日剧","欧美剧","动漫电影","台湾剧","韩剧","泰剧","记录片"]},
 {"key": "zy_FOX资源","name": " 💕┃虎牙资源","type": 1,"api": "https://www.huyaapi.com/api.php/provide/vod/at/json","searchable": 1,"quickSearch": 1,"categories": ["犯罪片","纪录片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","电影","连续剧","台湾剧","国产剧","韩国剧","香港剧","欧美剧","日本剧","其他剧","综艺","日韩综艺","大陆综艺","港台综艺","欧美综艺","动漫","国产动漫","日本动漫","欧美动漫","海外动漫"]},
-{"key":"七夜","name":"🦊七夜 | 搜索","type":3,"api":"csp_Dovx","playerType":2,"searchable":1,"filterable":0,"changeable":0,"ext":"./token.txt+4k|auto|fhd"},
-{"key": "易搜","name": "🦊易搜 | 搜索","type": 3,"api": "csp_YiSo","playerType":2,"ext": "./token.txt+4k|auto|fhd"},
-{"key": "盘搜","name": "🦊盘搜 | 搜索","type": 3,"api": "csp_PanSou","playerType":2,"ext": "./token.txt+4k|auto|fhd"},
-{"key": "UP云搜","name": "🦊Up云搜 | 搜索","type": 3,"api": "csp_UpYun","playerType":2,"ext": "./token.txt+4k|auto|fhd"},
-//{"key": "push_agent","name": "🍭推送(阿里推送/磁力推送)","type": 3,"api": "csp_Push","ext": "./token.txt","jar": "./yun/jar/fm.jar"}
-{"key": "push_agent", "name": "🍭推送(海阔)", "type": 3, "api": "csp_PushAgent", "searchable": 0,"quickSearch": 0, "filterable": 0,"ext": "./token.txt","jar": "./yun/Hk/Hk.jar"}
+ {"key":"csp_Bili幼儿","name":"🐞哔哩幼儿","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./云星/Hk/biliext/幼儿乐园.json"},
+        {"key":"csp_Bili少儿","name":"🐞哔哩少儿","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./yun/Hk/biliext/少儿教育.json"},
+        {"key":"csp_Bili小学","name":"🐞哔哩小学","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./yun/Hk/biliext/小学课堂.json"},
+        {"key":"csp_Bili初中","name":"🐞哔哩初中","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./yun/Hk/biliext/初中课堂.json"},
+        {"key":"csp_Bili高中","name":"🐞哔哩高中","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./yun/Hk/biliext/高中课堂.json"},
         
         ],
    "parses": [
