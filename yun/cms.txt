@@ -11,7 +11,7 @@
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+    }],
  "sites":[
 {"key" : "drpy_T4聚合","name" : "🌎影视推荐(首页)","type" : 3,"api" : "./yun/JS/lib/drpy.min.js","ext":"./yun/JS/js/drpy.js"},
 {"key": "csp_beijihu","name": "🎪极狐影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
