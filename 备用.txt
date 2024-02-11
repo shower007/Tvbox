@@ -8,7 +8,7 @@
         {"url": "https://ghcy.eu.org/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/adult.json","name": "🍀个人影院🍀"},
         {"url": "https://ghcy.eu.org/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/18.json", "name": "🍀私人影院🍀"},
         {"url": "https://ghcy.eu.org/https://raw.githubusercontent.com/shower007/Tvbox/master/18.json","name": "🚀个人"},
-        {"url": "https://ghcy.eu.org/https://raw.githubusercontent.com/shower007/Tvbox/master/%E5%90%BE%E7%88%B1.json","name": "🚀五爱"}, 
+        {"url": "https://ghcy.eu.org/https://raw.githubusercontent.com/shower007/Tvbox/master/yun/cms.txt","name": "🚀五爱"}, 
         {"url":"https://agit.ai/376242575/zzh/raw/branch/master/A.txt ","name": "🌈私人影院"},
         {"url":"https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json","name": "🌹经典在线"},
         {"url":"https://agit.ai/guot54/ygbh/raw/branch/master/dxwoai18+.txt","name": "🌙月光线路"},
