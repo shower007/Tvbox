@@ -5,7 +5,6 @@
     "sites": [
 {"key": "js豆瓣","name": "🐼豆瓣 | 推荐 |Q群：582874559","type": 3,"api": "./yun/JS/lib/drpy.min.js","ext": "./yun/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0 },
 {"key": "Kunyu77","name": "👒酷云七七|Q群：582874559","type": 3,"api": "csp_Kunyu77","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./yun/jar/fm.jar"},
-{"key":"直播转点播1","name":"📡电视┃直播","type": 3,"api":"http://itvbox.cc/tvbox/云星日记/sh/js/直播转点播.js","ext":"http://itvbox.cc/tvbox/云星日记/sh/js/直播.txt"},
 {"key":" 在线┃直播","name":"📺在线┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},          
 {"key":"csp_FanYY","name":"🧸玩偶┃影视","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"./yun/jar/alitoken.txt"},  
 {"key": "csp_XYQHiker_榜一短剧","name": "🌌榜一短剧","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./yun/Hk/XYQHiker/榜一短剧.json","jar": "./yun/Hk/Hk.jar"},
@@ -23,7 +22,6 @@
 {"key":"在线之家","name":"🎞在线┃之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com/"},
 {"key": "csp_xb555","name": "5️⃣️555┃影视","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.555dy.vip/vodtype/{cateId}{year}.html","jar":"https://pan.shangui.cc/f/QKzJTm/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"},
 {"key":"csp_Auete","name":"🏝Aue ┃影视","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key": "360_spider","name": "🔰360影视","api": "csp_SP360","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"jar":"./yun/Hk/Hk.jar"},
 {"key": "csp_IQIYI","name": "🥝爱奇艺视频","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://pan.shangui.cc/f/QKzJTm/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"},
 {"key": "teng","name": "🐧┃企鹅┃官源","type": 3,"jar":"https://pan.shangui.cc/f/QKzJTm/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f","api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -31,14 +29,10 @@
 {"key": "csp_Anime1", "name": "🐾日本动漫〔SP〕","type": 3,"api": "csp_Anime1", "playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Ysj","name": "🐲异界动漫〔SP〕","type": 3,"api": "csp_Ysj","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Dm84","name":" 🦸动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-
-
 {"key": "drpy_js_有声小说吧","name": "📻┃有声┃小说","type": 3,"api": "./yun/JS/lib/drpy2.min.js","ext": "./yun/JS/js/有声小说吧.js"},
 {"key": "drpy_js_蜻蜓FM","name": "📻┃蜻蜓┃收音","type": 3,"api": "./yun/JS/lib/drpy2.min.js","ext": "./yun/JS/js/蜻蜓FM.js"},      
 {"key": "csp_XPath_企鹅体育","name": "🐧┃企鹅┃体育","type": 3,"api": "csp_XPath","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://我不是.肥猫.love:63/json/企鹅直播.json"},
-//{"key": "dr_88看球","name": "🏀┃八八┃看球","type": 3,"api": "./yun/JS/lib/drpy2.min.js","searchable": 0,"quickSearch": 0,"filterable": 0, "ext": "./yun/JS/js/88看球.js"},
 {"key": "drpy_js_JRKAN直播", "name": "🏀┃JRS┃看球","type": 3,"api": "./yun/JS/lib/drpy2.min.js","ext": "./yun/JS/js/JRKAN直播.js"},
-
 {"key": "csp_Bili1","name": "🅱️哔哩合集","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 1,"filterable": 1,"ext": "./yun/Bilibili/哔哩合集.json"},
 {"key": "软件","name": " 🖤软件教程","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "./yun/Bilibili/软件教程.json"},
 {"key": "歌舞","name": "💃印度歌舞","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./yun/Bilibili/印度歌舞.json"},
