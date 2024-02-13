@@ -6,7 +6,7 @@
         {"url": "","name": "🐊🐊接口更新于2.11🐊🐊" },
         {"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/shower007/Tvbox/master/fty/fty.json","name": "🚀饭太"},
         {"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/shower007/Tvbox/master/cat/cat.json","name": "🚀肥猫"},
-        {"url": "https://ghcy.eu.org/https://raw.githubusercontent.com/shower007/Tvbox/master/zero/zero.json","name": "🚀零度"},
+        {"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/shower007/Tvbox/master/zero/zero.json","name": "🚀零度"},
         {"url": "https://ghcy.eu.org/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/adult.json","name": "🍀个人影院🍀"},
         {"url": "https://ghcy.eu.org/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/18.json", "name": "🍀私人影院🍀"}
         {"url": "https://ghcy.eu.org/https://raw.githubusercontent.com/shower007/Tvbox/master/yun/cms.txt","name": "🚀五爱"}, 
