@@ -2,16 +2,15 @@
     "urls": [
         {
             "url": "",
-            "name": "🐊🐊接口更新于2.13🐊🐊"
+            "name": "🚀接口更新于3.15🚀"
         },
         {
             "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/shower007/Tvbox/master/fty/fty.json",
-            "name": "🚀饭太"
+            "name": "🚀01"
         },
-        {"url":"https://agit.ai/376242575/zzh/raw/branch/master/影视.txt","name": "🚀影视"}, 
         {
             "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/shower007/Tvbox/master/cat/cat.json",
-            "name": "🚀肥猫"
+            "name": "🚀02"
         }       
     ]
 }
