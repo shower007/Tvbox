@@ -11,13 +11,7 @@
         {"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/adult.json","name": "😍个人影院"},
         {"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/18.json", "name": "😍私人影院"},
         {"url":"https://agit.ai/376242575/zzh/raw/branch/master/影视.txt","name": "🚀影视"}, 
-        {"url":"https://agit.ai/376242575/zzh/raw/branch/master/A.txt ","name": "😍私人影院"},
-        {"url":"https://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json","name": "😍经典在线"},       
-        {"url":"https://www.agit.ai/dlee2008/TVBOXZY/raw/commit/f1bd76d8b66ba95f98927c6ae8553dce196de3a7/18.json","name":"😍星河带飞"},
-        {"url":"https://agit.ai/fenwe/TVBox/raw/branch/master/ziyong.json","name": "😍fenwe.ziyong"},
-        {"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/yschaizhen/xian/main/hh","name":"😍XXXXXZ"},
-        {"url":"https://ghcy.eu.org/https://raw.githubusercontent.com/yschaizhen/tvbox/main/xxx1","name":"😍XXX1"},
-        {"url":"https://agit.ai/ABCD/box/raw/branch/master/18+","name":"😍18+线路"}
+        {"url":"https://agit.ai/376242575/zzh/raw/branch/master/A.txt ","name": "😍私人影院"}   
         
     ]
 }
