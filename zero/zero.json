@@ -1,54 +1,6 @@
 {
   "wallpaper": "https://www.100km.top/api/img.php",
   "spider": "./fan.txt;md5;4eec8bf0a642330662224a01636e0df6",
-   "lives": [
-    
-    {
-      "name": "adult_2023",
-      "type": 0,
-      "url": "./lib/adult_2023.txt",
-      "playerType": 2,
-      "ua": "okhttp/3.15",
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "name": "madou",
-      "type": 0,
-      "url": "./lib/madou.txt",
-      "playerType": 2,
-      "ua": "okhttp/3.15",
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "name": "18_adult",
-      "type": 0,
-      "url": "./lib/18_adult.txt",
-      "playerType": 2,
-      "ua": "okhttp/3.15",
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "name": "adult_2",
-      "type": 0,
-      "url": "./lib/adult_2.txt",
-      "playerType": 2,
-      "ua": "okhttp/3.15",
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "name": "adult",
-      "type": 0,
-      "url": "./lib/adult.txt",
-      "playerType": 2,
-      "ua": "okhttp/3.15",
-      "epg": "",
-      "logo": ""
-    }
-  ],
   "sites": [
     {
       "key": "豆瓣推荐",
