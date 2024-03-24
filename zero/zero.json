@@ -3,13 +3,12 @@
   "spider": "./gd5ic01b6d4922692401eac6018178d033d06",
    "lives": [
     {
-      "name": "直播",
+       "name": "live",
       "type": 0,
-      "url": "./live.txt",
       "playerType": 1,
-      "ua": "okhttp/3.15",
+      "url": "./live.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.png
     },
   "sites": [
     {"key": "豆瓣推荐","name": "豆瓣推荐","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
