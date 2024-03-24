@@ -3,13 +3,16 @@
   "spider": "./fan.txt;md5;4eec8bf0a642330662224a01636e0df6",
   "lives": [
    {
-      "name": "直播",
+      "name": "tvlive",
       "type": 0,
       "url": "./live.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "playerType": 2
+    },
+    {
+      "name": "嗅探",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+      "type": 0,
+      "url": "./lib/xiutan.m3u"
     }
   ],
   "sites": [
