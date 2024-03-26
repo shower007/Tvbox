@@ -6,7 +6,7 @@
 
 {
     "urls": [
-        {"url": "","name": "🐊🐊接口更新于2.11🐊🐊" },
+        {"url": "","name": "🐊🐊接口更新于2.26🐊🐊" },
         {"url":"https://raw.kkgithub.com/shower007/Tvbox/master/fty/fty.json","name": "🚀饭太"},
         {"url":"https://raw.kkgithub.com/shower007/Tvbox/master/cat/cat.json","name": "🚀肥猫"},
         {"url":"https://raw.kkgithub.com/shower007/Tvbox/master/zero/zero.json","name": "🚀零度"},
