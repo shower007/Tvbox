@@ -10,7 +10,18 @@
         {"url":"https://raw.kkgithub.com/shower007/Tvbox/master/fty/fty.json","name": "🚀饭太"},
         {"url":"https://raw.kkgithub.com/shower007/Tvbox/master/cat/cat.json","name": "🚀肥猫"},
         {"url":"https://raw.kkgithub.com/shower007/Tvbox/master/zero/zero.json","name": "🚀零度"},
-        {"url":"https://agit.ai/376242575/zzh/raw/branch/master/A.txt ","name": "😍私人影院"}   
-        
+        {"url":"https://agit.ai/376242575/zzh/raw/branch/master/A.txt ","name": "😍私人影院"},  
+        {
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "⏯️云星家庭"
+        },
+        {
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "⏯️肥猫"
+        },                        
+        {
+            "url": "http://饭太硬.top/tv",
+            "name": "⏯️饭太"
+        }                
     ]
 }
