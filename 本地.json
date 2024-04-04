@@ -2,6 +2,6 @@
 "urls": [
 {"url": "","name": "03.05更新本地选下面👇🏻使用"},    
 {"url": "clan://localhost/tvbox/feimao/feimao.json","name":"肥猫"},
-{"url": "clan://localhost/tvbox/fty/fty.json","name":"饭太"} 
+{"url": "clan://localhost/tvbox/fty.json","name":"饭太"} 
       ]
    }
