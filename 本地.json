@@ -1,7 +1,7 @@
 {
 "urls": [
 {"url": "","name": "03.05更新本地选下面👇🏻使用"},    
-{"url": "clan://localhost/TVBox/lib/肥猫.txt","name":"肥猫线路"},
-{"url": "clan://localhost/TVBox/lib/饭太硬.txt","name":"饭太硬线路"} 
+{"url": "clan://localhost/tvbox/feimao/feimao.json","name":"肥猫"},
+{"url": "clan://localhost/tvbox/fty/fty.json","name":"饭太"} 
       ]
    }
