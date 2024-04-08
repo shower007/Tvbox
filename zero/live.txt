@@ -7,7 +7,7 @@ CCTV0,http://cdn.adultiptv.net/gay.m3u8
 CCTV0,http://live.redtraffic.xyz/gay.m3u8
 CCTV0,http://play.iptvxxx.net/gay.m3u8
 CCTV0,https://live.adultiptv.net/gay.m3u8
-CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
+
 CCTV1,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV2,mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
 CCTV3,mitv://generationnexxxt.com:19806/784f6703531044be9cee14b793948d30
