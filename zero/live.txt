@@ -1,12 +1,25 @@
 //个人娱乐_0707
 
 央视普清,#genre#
-中天新闻台,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
-CCTV13,rtmp://liveplay.cctvnews.cctv.com/cctv/merge_cctv13
+中天新闻台,http://66.165.240.154:8080/live/ztylt01/hls.m3u8
+CCTV13https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 CCTV0,http://cdn.adultiptv.net/gay.m3u8
 CCTV0,http://live.redtraffic.xyz/gay.m3u8
 CCTV0,http://play.iptvxxx.net/gay.m3u8
 CCTV0,https://live.adultiptv.net/gay.m3u8
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+CCTV8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV10,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+CCTV11,https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8
+CCTV12,https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
+CCTV14,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
+CCTV15,https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
+
 CCTV1,http://cyz32.livehbindex.hbcatv.cn/live/50000020935c4d59965a1cbf159c9be9.m3u8?bitrate=2300&pt=5
 CCTV2,http://cyz32.livehbindex.hbcatv.cn/live/50000020d7ae404dbd55b5d0ba6fe735.m3u8?bitrate=2300&pt=5
 CCTV3,http://cyz32.livehbindex.hbcatv.cn/live/50000020425540c3b4e7c41ca3eabb76.m3u8?bitrate=2300&pt=5
