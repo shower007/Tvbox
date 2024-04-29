@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "🌕自动",
+      "name": "🌕自用",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
