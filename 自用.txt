@@ -2,19 +2,15 @@
     "urls": [
         {
             "url": "",
-            "name": "🐊🐊接口更新于3.26🐊🐊"
+            "name": "🐊🐊接口更新于4.29🐊🐊"
         },
         {
-            "url": "https://raw.kkgithub.com/shower007/Tvbox/master/fty/fty.json",
+            "url": "https://raw.githubusercontent.com/shower007/Tvbox/master/fty/fty.json",
             "name": "🚀饭太"
         },
         {
-            "url": "https://raw.kkgithub.com/shower007/Tvbox/master/cat/cat.json",
+            "url": "https://raw.githubusercontent.com/shower007/Tvbox/master/cat/cat.json",
             "name": "🚀肥猫"
-        },
-        {
-            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "⏯️云星家庭"
         },
         {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
