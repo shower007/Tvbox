@@ -3,7 +3,7 @@
 //http://itvbox.cc/可视TV/云星日记/仓库.json
 //https://https://itvbox.cc/可视TV/云星日记/仓库/api.json
 //https://raw.githubusercontent.com/shower007/Tvbox/master/zero/live.txt
-
+//https://agit.ai/376242575/zzh/raw/branch/master/A.txt ","name": "😍私人影院
 
 
 {
@@ -11,8 +11,7 @@
         {"url": "","name": "🐊🐊接口更新于4.26🐊🐊" },
         {"url":"https://raw.githubusercontent.com/shower007/Tvbox/master/fty/fty.json","name": "🚀饭太"},
         {"url":"https://raw.githubusercontent.com/shower007/Tvbox/master/cat/cat.json","name": "🚀肥猫"},
-        {"url":"https://raw.githubusercontent.com/shower007/Tvbox/master/zero/zero.json","name": "🚀零度"},
-        {"url":"https://agit.ai/376242575/zzh/raw/branch/master/A.txt ","name": "😍私人影院"},  
+        {"url":"https://raw.githubusercontent.com/shower007/Tvbox/master/zero/zero.json","name": "🚀零度"}
         {"url":"https://raw.githubusercontent.com/shower007/Tvbox/master/wuai/wuai.json","name": "吾爱"},
         {"url":"http://我不是.肥猫.love:63/接口禁止贩卖","name": "⏯️肥猫"},                        
         {"url":"http://饭太硬.top/tv","name": "⏯️饭太"}                
