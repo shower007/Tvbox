@@ -1,9 +1,3 @@
-//https://ghcy.eu.org/https://raw.githubusercontent.com/showeme007/Tvbox/master/live.txt
-//https://ghcy.eu.org/https://raw.githubusercontent.com/shower007/Tvbox/master/自用.txt
-//http://itvbox.cc/可视TV/云星日记/仓库.json
-//https://https://itvbox.cc/可视TV/云星日记/仓库/api.json
-//https://raw.githubusercontent.com/shower007/Tvbox/master/zero/live.txt
-//https://agit.ai/376242575/zzh/raw/branch/master/A.txt ","name": "😍私人影院
 
 
 {
